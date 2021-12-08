@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  purchase_date: 2021-12-08
+  user: one
+  gnome: one
+
+two:
+  status: MyString
+  purchase_date: 2021-12-08
+  user: two
+  gnome: two
